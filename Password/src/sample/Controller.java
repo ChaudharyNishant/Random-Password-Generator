@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package sample;
 
 import javafx.fxml.FXML;
@@ -59,3 +62,6 @@ public class Controller {
         Clipboard.getSystemClipboard().setContent(map);
     }
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
